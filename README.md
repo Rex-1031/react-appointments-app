@@ -1,1 +1,1 @@
-# react-appoitments-app
+# react-appointments-app
